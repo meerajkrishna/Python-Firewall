@@ -26,9 +26,9 @@ Deny packet Based on Source 192.168.1.100:0 to Destination 192.168.2.100:0 </br>
 
 **Rule File**
 
-We'll use a [CSV](./imports/Rules.csv) file as our rules table.
+We'll use a [CSV][Rules.csv](https://github.com/user-attachments/files/23156212/Rules.csv) file as our rules table.
 
-![Example rule table](./screenshots/examplerules.jpg)
+![Example rule table]![Image](https://github.com/user-attachments/assets/cbb6be5f-f1e1-49f5-a2a8-0efb76fa0841)
 
 # Firewall Log
 
