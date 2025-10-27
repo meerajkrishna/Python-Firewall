@@ -37,7 +37,7 @@ All the logs will be saved in a [Log file](firewall.log)
 
 **Allow Traffic Logs**
 
-![Traffic Logs](./screenshots/log1.jpg)
+![Image](https://github.com/user-attachments/assets/2a357a5b-b15e-44e6-8032-84bf17d43234)
 
 **Deny Traffic Logs**
 
