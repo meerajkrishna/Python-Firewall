@@ -41,7 +41,7 @@ All the logs will be saved in a [Log file](firewall.log)
 
 **Deny Traffic Logs**
 
-![Error Logs](./screenshots/log2.jpg)
+![Image](https://github.com/user-attachments/assets/183383c1-6b9d-4c60-b22a-52f8e21f8d0e)
 
 # How this firewall works?
 
